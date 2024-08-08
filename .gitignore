@@ -1,0 +1,9 @@
+venv/
+
+*.bak
+
+*.json
+
+*.ipynb
+
+__pycache__/
